@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I ma a fullstack developer, working with PHP, CSS, MYSQL, JS, PYTHON, DJANGO, always trying to be better in coding
+
 <!--
 **dzhjose/DZHJOSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Where fo find me
-(linkedin)[https://www.linkedin.com/in/jose-diaz-a633a2100/]
+### Where fo find me
+- [linkedin](https://www.linkedin.com/in/jose-diaz-a633a2100/)
