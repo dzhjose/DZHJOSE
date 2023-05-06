@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I ma a fullstack developer, working with PHP, CSS, MYSQL, JS, PYTHON, DJANGO, always trying to be better in coding
+### I'm a fullstack developer, working with PHP, CSS, MYSQL, JS, PYTHON, DJANGO, always trying to be better in coding
 
 <!--
 **dzhjose/DZHJOSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
